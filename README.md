@@ -9,6 +9,7 @@ Or double-click the script and paste or drag-and-drop your image when asked.
 
 Features & Controls
 Auto-detect circles: Adjust detection sensitivity (Stringency) and max size (Max Radius) with sliders. Add circles: Left-click anywhere. Resize circles: Left-click and drag up/down. Remove circles: Right-click circles. Zoom: Scroll wheel to zoom. 
+Use WSAD to pan the image. Press and hold J to hide the annotations.
 
 Output
 Real-time circle display showing total circle count in console. 
